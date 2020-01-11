@@ -13,11 +13,9 @@
 - 小巧, 无广告, 开源
 
 ## 下载
-安卓 [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.apk)
+安卓 [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.apk)<br>iOS [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.ipa)
 
-iOS [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.ipa)
-
-## 截图
+## 截屏
 <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-1.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-2.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-3.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-4.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-5.jpg" width="120">
 
 <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-1.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-2.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-3.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-4.jpg" width="150">
