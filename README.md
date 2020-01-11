@@ -1,11 +1,9 @@
-<img src="https://github.com/re-esper/flutter_douga/blob/master/assets/icon.png" width="128" height="128">
+<img src="https://github.com/re-esper/flutter_douga/blob/master/assets/icon.png" width="128">
 
 # 嘀哩非公式
 嘀哩嘀哩 (http://www.dilidili3.com) 非官方客户端
 
-这是此前我练习flutter, 花三天时间 (不计后期修bug制作图标等) 完成的1个动漫播放与动漫资料应用, 支持Android与iOS
-
-此项目在界面设计和相关界面代码方面大量参考了 https://github.com/Mayandev/morec
+这是此前我练习flutter, 花三天时间 (不计后期修bug制作图标等) 完成的1个动漫播放与动漫资料应用. 此项目在界面设计和相关界面代码方面大量参考了 https://github.com/Mayandev/morec
 
 ## 特性
 - 海量动漫在线播放 (目前超过5000部), 每日不断更新中, 内容来自 dilidili3.com
@@ -15,8 +13,14 @@
 - 小巧, 无广告, 开源
 
 ## 下载
+安卓 [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.apk)
+iOS [下载](https://github.com/re-esper/flutter_douga/blob/master/bin/flutter_douga.ipa)
 
 ## 截图
+<img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-1.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-2.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-3.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-4.jpg" width="120">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/android-5.jpg" width="120">
+
+<img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-1.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-2.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-3.jpg" width="150">    <img src="https://github.com/re-esper/flutter_douga/blob/master/screenshot/ipad-4.jpg" width="150">
+
 
 
 
