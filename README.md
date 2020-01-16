@@ -1,5 +1,3 @@
-<img src="https://github.com/re-esper/flutter_douga/blob/master/assets/icon.png" width="128">
-
 # 嘀哩非公式
 嘀哩嘀哩 (http://www.dilidili3.com) 非官方客户端
 
